@@ -7,7 +7,7 @@
 </head>
 <body style="text-align: center; background-color: rgba(13, 1, 1, 0.408);">
     <h1>Elige un color</h1>
-    <a href="red.html">
+    <a href="rojo.html">
         <button style="background-color: red;">Rojo</button>
     </a>
     <a href="verde.html">
